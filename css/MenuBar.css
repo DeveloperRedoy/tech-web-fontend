@@ -1,0 +1,31 @@
+.menu_bar
+{
+    color: black;
+    font-family: 'Trebuchet MS', sans-serif; 
+    float: left;
+}
+
+.main_menu ul
+{
+    word-spacing: 5px;
+}
+
+.main_menu ul li
+{
+    text-decoration: none;
+    display: inline;
+    font-size: 14px;
+    color: black;
+    padding: 15px 0px;
+    font-weight: 600;
+    /*  */
+    font-family: 'Trebuchet MS', monospace;
+    letter-spacing: 0.7px;                                  
+}
+
+.main_menu ul li:hover
+{
+    color:#ef4a23;
+    cursor: pointer;
+}
+                

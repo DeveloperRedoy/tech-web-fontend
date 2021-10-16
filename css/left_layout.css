@@ -1,0 +1,58 @@
+.Price_Range
+{
+    width: 100%;
+    height: 29vh;
+    background-color: rgb(255, 255, 255);
+    float: left;
+    border-radius: 5px;
+    box-shadow: 0px 0.08px 0.01px 0.2px silver;
+}
+
+.Price_Range div
+{
+    width: 100%;
+    text-align: left;
+    float: left;
+    margin-top: 8px;
+}
+
+.Price_Range div span
+{
+    font-size: 17px;
+    font-weight: 400;
+    background-color: white;
+    color: #111111;
+    text-align: left;
+    cursor: pointer;
+    font-family: monospace;
+    margin-left: 20px;
+}
+
+.Price_Range_hr
+{
+    width: 100%;
+    height: 1px;
+    background-color: rgb(255, 255, 255);
+    color: white;
+    margin-top: 15px;
+}
+
+/* ====================================================================== */
+
+.Type
+{
+    margin-top: 1vh;
+    width: 100%;
+    height: 29vh;
+    background-color: rgb(255, 255, 255);
+    float: left;
+    border-radius: 5px;
+    box-shadow: 0px 0.08px 0.01px 0.2px silver;
+}
+
+
+
+
+
+
+

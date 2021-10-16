@@ -1,0 +1,261 @@
+.rocket_logo
+{
+    float: left;
+    padding: 20px;
+    font-size: 40px;
+    margin-left: 20px;
+    transform: rotate(-45deg);
+    background: -webkit-linear-gradient(rgb(255, 255, 255), rgb(255, 0, 255));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    cursor: pointer;
+}
+
+.gift_font i
+{
+    background: -webkit-linear-gradient(#EF4A23, #EF4A23);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.flash_font i
+{
+    background: -webkit-linear-gradient(#EF4A23, #EF4A23);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.user_font i
+{
+    background: -webkit-linear-gradient(#EF4A23, #EF4A23);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+
+/* ======================================== */
+.search_logo
+{
+    color: black;
+    font-size: 17px;
+    float: left;
+    margin-bottom: 0px;
+    margin-bottom: -1px;
+    padding: 5px;
+}
+
+form.example
+{
+  padding: 18px;
+  
+}
+
+
+input[type=search] 
+{
+  width: 38%;
+  font-size: 15px;
+  text-align: left;
+  padding: 11px;
+  margin-left: 5%;
+  margin-top: 3vh;
+  float: left;
+  color: black;
+  font-family: sans-serif;
+  text-decoration: none;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-right: none;
+  outline: none;
+}
+
+.search_logo_btn
+{
+  float: left;
+  background: white;
+  border: none;
+  margin-top: 3.3vh;
+  padding: 2px;
+  cursor: pointer;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+.search_logo
+{
+  font-size: 17px;
+  padding: 10px;
+  float: left;
+}
+
+/* =========================== */
+
+.gift
+{
+   float: left;
+   margin-left: 30px;
+   margin-top: 25px;
+   cursor: pointer;
+}
+
+.gift_font
+{
+   float: left;
+}
+
+.gift_font i
+{
+  font-size: 20px;
+}
+
+.gift_txt
+{
+  width: 80px;
+  margin-left: 10px;
+  float: left;
+}
+
+.gift_txt p
+{
+  font-size: 16px;
+  font-family: sans-serif;
+  float: left;
+}
+
+.gift_txt small
+{
+  font-size: 11px;
+  font-family: sans-serif;
+  float: left;
+  font-style: normal;
+  color: gray;
+}
+
+/* ======================== */
+
+.flash
+{
+   float: left;
+   margin-top: 25px;
+   cursor: pointer;
+}
+
+.flash_font
+{
+   float: left;
+}
+
+.flash_font i
+{
+  font-size: 30px;
+}
+
+.flash_txt
+{
+  width: 85px;
+  float: left;
+}
+
+.flash_txt p
+{
+  font-size: 16px;
+  font-family: sans-serif;
+  float: left;
+}
+
+.flash_txt small
+{
+  font-size: 11px;
+  font-family: sans-serif;
+  float: left;
+  font-style: normal;
+  color: gray;
+}
+
+/* ======================== */
+
+.user
+{
+   float: left;
+   margin-top: 25px;
+   margin-left: 20px;
+   cursor: pointer;
+}
+
+.user_font
+{
+   float: left;
+}
+
+.user_font i
+{
+  font-size: 20px;
+}
+
+
+.user_txt
+{
+  width: 100px;
+  margin-left: 0px;
+  float: left;
+}
+
+.user_txt p
+{
+  font-size: 16px;
+  font-family: sans-serif;
+  float: left;
+}
+
+.user_txt small
+{
+  font-size: 11px;
+  font-family: sans-serif;
+  float: left;
+  font-style: normal;
+  color: gray;
+}
+
+/* =========================== */
+.btn_header
+{
+  padding: 20px;
+  float: left;
+}
+
+.btn_header button
+{
+  font-family: sans-serif;
+  font-size: 16px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  color: rgb(255, 255, 255);
+  background-image: linear-gradient(45deg,#22338A,#5ec4ff);
+  /*  */
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+
+}
+
+
+
+
+
+
+
+
+
+
+/* 
+<i class="fas fa-gift"></i> gift
+<i class="icofont-flash"></i> flash
+<i class="fas fa-user-alt"></i> user
+<i class="fas fa-home"></i> home
+<i class="fas fa-home-lg-alt"></i> home
+<i class="fab fa-facebook-f"></i> facebook
+<i class="fab fa-youtube"></i> youtube
+<i class="fab fa-instagram"></i> instagram
+<i class="fas fa-phone-alt"></i> call
+*/
